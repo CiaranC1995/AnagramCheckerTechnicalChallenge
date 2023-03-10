@@ -12,6 +12,8 @@ I believe I have successfully implemented all of the main requirements and I hav
 
 I have fully tested the Result.java class and included the JUnit Test Case for this with the source code. 
 
+Also in included in the folder is the Javadoc generated from Eclipse for reference.
+
 <h1>In order to use the program simply follow the onscreen instructions. They will guide you step by step.</h1>
 
 I hope you enjoy using this simple program, hope to hear from you soon.
